@@ -33,7 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e9edf0;
+  background-color: #990000;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -147,6 +147,26 @@ button.btn, input.btn {
       padding-right: 0.5em;
     }
   }
+  .profile_photo {
+    margin: 0 auto;
+    display: table;
+    width: 250px;
+    border-radius: 50%;
+    /* animation: photo-clip 1.5s 0s cubic-bezier(0.5, 0, 0.1, 1) both; */
+  }
+}
+
+.img-flow-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowra;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.img-item {
+  padding: 10px;
+  flex: 1;
 }
 
 /*--------------------------------------------------------------

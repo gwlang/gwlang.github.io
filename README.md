@@ -1,5 +1,8 @@
-## Phantom for Jekyll
 
+## Dependencies
+Must install ruby 3.1.3 for Ventura 13.0.1 OS computers
+
+## Phantom for Jekyll
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
 
 ![preview](preview.jpg)
