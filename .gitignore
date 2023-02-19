@@ -1,0 +1,12 @@
+**/.DS_Store
+_site
+Gemfile.lock
+*.gem
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Geoff-specific ignores
+assets/doc/Lang_CV.docx
