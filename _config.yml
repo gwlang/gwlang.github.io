@@ -102,4 +102,4 @@ nav_item:
   - { url: '/about', text: 'About' }
   - { url: '/research', text: 'Research' }
   - { url: '/teaching', text: 'Teaching' }
-  - { url: '{/assets/doc/Lang_CV.pdf}', text: '<i class="fa fa-file-pdf-o fa-lg"></i> Resume'}
+  - { url: '/assets/doc/Lang_CV.pdf', text: '<i class="fa fa-file-pdf-o fa-lg"></i> Resume'}
