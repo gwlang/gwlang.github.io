@@ -1,4 +1,3 @@
-
 ## Dependencies
 Must install ruby 3.1.3 for Ventura 13.0.1 OS computers
 
@@ -99,3 +98,4 @@ Read more about the [pagination plugin](http://jekyllrb.com/docs/pagination/).
 , [GPL](https://github.com/matthieua/WOW#open-source-license)
 
 * Animate.css, https://github.com/daneden/animate.css, (C) 2016 Daniel Eden, [MIT](https://github.com/daneden/animate.css/blob/master/LICENSE)
+
